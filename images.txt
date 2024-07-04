@@ -2,3 +2,4 @@ nginx
 #支持私库
 p3terx/aria2-pro
 p3terx/ariang
+mtphotos/mt-photos
