@@ -3,3 +3,4 @@ nginx
 p3terx/aria2-pro
 p3terx/ariang
 mtphotos/mt-photos
+nyanmisaka/jellyfin
